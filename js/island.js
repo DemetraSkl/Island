@@ -78,7 +78,7 @@ function setupWorld() {
     window.addEventListener('resize', onWindowResize, false);
 
     var axes = new THREE.AxesHelper(100);
-    scene.add(axes);
+    // scene.add(axes);
 }
 
 /***************************************************************************************
